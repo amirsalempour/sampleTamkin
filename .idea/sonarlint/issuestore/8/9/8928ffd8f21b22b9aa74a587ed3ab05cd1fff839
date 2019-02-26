@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏÈ²Ž8›ý¨Ì‘-
+gsquid:UselessImportCheck"<Remove this unused import 'com.sun.deploy.util.StringUtils'.(Ï¥¯ö8ƒé¢Ï‘-
+[squid:S1197"8Move the array designator from the variable to the type.(óÓ¤Ùøÿÿÿÿ8Éº¨Ï‘-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿþ«Ä8¼Í±Ï‘-
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Ï¥¯ö8“¢œÏ‘-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñß¢´8³Â­Ï‘-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(âÍ¼þ8ÔÄ®Ï‘-
